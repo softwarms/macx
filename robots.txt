@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /engine/download.php
+Disallow: /engine/go.php
+Disallow: /engine/
+Disallow: /user/
+Disallow: /newposts/
+Disallow: /statistics.html
+Disallow: /*subaction=userinfo
+Disallow: /*subaction=newposts
+Disallow: /*do=lastcomments
+Disallow: /*do=feedback
+Disallow: /*do=register
+Disallow: /*do=lostpassword
+Disallow: /*do=addnews
+Disallow: /*do=stats
+Disallow: /*do=pm
+Disallow: /*do=search
+Disallow: /*do=download
+Disallow: /*do=go
+Sitemap: https://softwarms.github.io/macx/sitemap.xml
+
+Host: softwarms.github.io/macx/
